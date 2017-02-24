@@ -1,0 +1,1 @@
+/home/hao/camera/CMakeFiles/camera.dir
